@@ -15,3 +15,5 @@ while l<r:
     else:
         l=(l+r)//2+1
     count+=1
+if(l>=r):
+    print('item not found')
