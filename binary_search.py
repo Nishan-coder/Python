@@ -1,6 +1,6 @@
 l1=[x for x in range(1,101)]
 print(l1)
-item_to_be_searched=3
+item_to_be_searched=int(input('enter the number to be searched')
 l=0
 r=len(l1)-1
 count =0
